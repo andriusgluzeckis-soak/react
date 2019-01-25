@@ -1,0 +1,34 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Lerning programming ReactJS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriusgluzeckis-soak/react.git"
+  },
+  "keywords": [
+    "react",
+    "react-lerning",
+    "react-test"
+  ],
+  "author": "Andrius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriusgluzeckis-soak/react/issues"
+  },
+  "homepage": "https://github.com/andriusgluzeckis-soak/react#readme",
+  "dependencies": {
+    "babel-loader": "^8.0.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "webpack": "^4.29.0",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
